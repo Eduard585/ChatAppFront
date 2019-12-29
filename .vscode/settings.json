@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/.babelrc": true,
+        "**/.gitignore": true
+    }
+}
